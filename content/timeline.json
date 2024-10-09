@@ -1,0 +1,115 @@
+{
+    "education": [
+      {
+        "date": "Present",
+        "degree": "Master of Computer Application",
+        "institution": "Aligarh Muslim University",
+        "cgpa": "8.6 CGPA"
+      },
+      {
+        "date": "2022",
+        "degree": "Bachelor of Computer Application",
+        "institution": "Aligarh Muslim University",
+        "cgpa": "8.1 CGPA"
+      },
+      {
+        "date": "2019",
+        "degree": "Senior Secondary School",
+        "institution": "Aligarh Muslim University",
+        "percentage": "76.4%"
+      },
+      {
+        "date": "2017",
+        "degree": "Secondary School",
+        "institution": "CBSE Delhi",
+        "cgpa": "10 CGPA"
+      }
+    ],
+    "projects": [
+      {
+        "date": "March 2024",
+        "title": "AMU PYQ Papers",
+        "link": "https://amupapers.live/",
+        "description": "Created a dynamic web application for students to access previous year question papers with Ajax for seamless interaction and robust admin review features."
+      },
+      {
+        "date": "Jan 2024",
+        "title": "Currently-Playing on Spotify",
+        "link": "https://github.com/shujaurrahman/Currently-Playing-on-Spotify-",
+        "description": "An interactive script displaying currently playing Spotify track without reloading the page using Ajax, integrated with web pages for real-time music updates."
+      },
+      {
+        "date": "Aug 2023",
+        "title": "Personal Web Terminal",
+        "link": "https://terminal.shujaurrahman.me/",
+        "description": "A personalized web terminal offering various commands for information and interaction, utilizing JavaScript for API interaction."
+      },
+            {
+        "date": "April 2022",
+        "title": "Covisurance",
+        "link": "https://github.com/shujaurrahman/Covisurance",
+        "description": "Automated health insurance process with online applications, payments, and claims. Includes admin controls and real-time notifications for enhanced security."
+      },
+      {
+        "date": "Nov 2021",
+        "title": "Blog Web App",
+        "link": "https://github.com/shujaurrahman/Dynamic-Blogger-website",
+        "description": "A blog web application supporting CRUD operations with a user login/signup system and an admin panel for query and feedback management."
+      }
+
+    ],
+    "workshops": [
+      {
+        "date": "Nov 2023",
+        "title": "Introduction to Research Practices"
+      },
+      {
+        "date": "Nov 2023",
+        "title": "Cyber Security: Pen Testing Methodology"
+      },
+      {
+        "date": "Oct 2023",
+        "title": "CS360: Bits to Bots"
+      }
+    ],
+    "technicalSkills": {
+      "languages": ["PHP", "Python", "SQL", "Java", "C", "C++", "HTML", "CSS", "JavaScript (ReactJs)"],
+      "developerTools": ["MySQL", "Docker", "Web Sockets", "Jupyter Notebook", "Google Cloud", "Linux", "Bootstrap"]
+    },
+ "certifications": [
+    {
+      "title": "The Complete JavaScript Course 2024: From Zero to Expert",
+      "institution": "Udemy",
+      "date": "June 2024",
+      "certificateLink": "https://udemy.com/certificate/javascript-course"
+    },
+    {
+      "title": "Google Cloud Study Jams Labs Certificate",
+      "institution": "Google Cloud",
+      "date": "Feb 2024",
+      "certificateLink": "https://googlecloud.com/certificate/study-jams"
+    },
+    {
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+      "institution": "Udemy",
+      "date": "Feb 2024",
+      "certificateLink": "https://udemy.com/certificate/python-bootcamp"
+    },
+    {
+      "title": "The Complete 2024 Web Development Bootcamp",
+      "institution": "Udemy",
+      "date": "Jan 2024",
+      "certificateLink": "https://udemy.com/certificate/web-development"
+    },
+    {
+      "title": "Geodata Processing Using Python",
+      "institution": "Coursera",
+      "date": "Jan 2023",
+      "certificateLink": "https://coursera.org/verify/geodata-python"
+    }
+  ],
+    "contact": {
+      "email": "discuss@shujaurrahman.me"
+    }
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "now": {
+        "title": "Now",
+        "content": "This now page was inspired by <a href=\"https://sive.rs/now\" target=\"_blank\" rel=\"noreferrer noopener\">a concept from Derek Sivers</a>, which is a living document on what I am currently doing, right now in my life. Follow my journey and get a glimpse of my daily life on <a href=\"https://www.instagram.com/rah.maan__/\" target=\"_blank\" rel=\"noreferrer noopener\">Instagram</a>."
+
+    },
+    "sideProjects": {
+        "title": "Side projects",
+        "content": "I am working on a microblogging website , a platform for posting anonymously their stories about AMU Campus. For collaboration leave a mail. Check out my <a href=\"https://github.com/shujaurrahman\" target=\"_blank\" rel=\"noreferrer noopener\">GitHub profile</a> for more details."
+    },
+    "newChallenges": {
+        "title": "New challenges",
+        "items": [
+            "• Learning advanced React.js concepts",
+            "• Improving my Docker and Google Cloud skills",
+            "• Exploring more about artificial satellites and space research",
+            "• Plan a trip to a space observatory",
+            "• Warming up in ML Domain"
+        ]
+    },
+    "newFinds": {
+        "title": "New finds",
+        "items": [
+            {"text": "• Latest obsession are <a href=\"https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4?si=8450482791c64dc2\" target=\"_blank\" rel=\"noreferrer\">Donte Estas,Yolanda?</a>.", "isLink": true},
+            {"text": "• <a href=\"https://www.myntra.com/20358860\" target=\"_blank\" rel=\"noreferrer\">one8 x PUMA</a> are the new cool.", "isLink": true}
+        ]
+    },
+    "toDo": {
+        "title": "To Do",
+        "items": [
+            {"text": "Personal portfolio website.", "checked": true},
+            {"text": "Dyanmic blog using markdown.", "checked": true},
+            {"text": "100 Days of python.", "checked": true},
+            {"text": "Data structure and Algorithm", "checked": false},
+            {"text": "AMU Whispers", "checked": false},
+            {"text": "Learn German/Arabic", "checked": false},        
+            {"text": "Read 10 Books in 2024", "checked": false}        ]
+    },
+    "coolStuff": {
+        "title": "Cool stuff from 2024 (7)",
+        "items": [
+            {"text": "Tail Orchestra", "url": "https://open.spotify.com/album/1lni2IVDhmEWpaobo80xfJ"},
+            {"text": "Andre Schulz", "url": "https://www.instagram.com/andreschulzeart/"},
+            {"text": "Sympathique", "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC?si=irSNU_PARBOaluiTO8YZnQ"},
+            {"text": "Photoshop Old Paintings", "url": "https://www.instagram.com/scadarts/"},
+            {"text": "Panic! At The Disco", "url": "https://www.youtube.com/watch?v=7qFF2v8VsaA"},
+            {"text": "Poetry Camera", "url": "https://poetry.camera"},
+            {"text": "Milk Frother", "url": "https://countrybean.in/collections/milk-frother-for-coffee"}
+        ]
+    }
+}

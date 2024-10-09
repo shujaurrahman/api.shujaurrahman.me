@@ -1,0 +1,52 @@
+{
+    "profile": {
+      "image": "/profile/shuja.jpg",
+      "name": "Shuja Ur Rahman",
+      "description": "Creative technologist, Master coder, API wrangler, JavaScript ninja, PHP wizard, and tech geek. Pursuing MCA at AMU."
+    },
+    "sections": [
+      {
+        "title": "Develop Innovative Web Applications and Integrate APIs",
+        "content": [
+          "I have developed dynamic web applications, such as the AMU PYQ Papers platform, which allows students to access previous year question papers with a user-friendly interface. This project employs Ajax for seamless frontend-backend communication, enhancing responsiveness and interactivity. Additionally, I have worked on a blog web app enabling easy CRUD operations, complete with user authentication and an admin panel for managing user interactions and feedback.",
+          "Incorporating APIs into web applications is one of my core strengths. For instance, my 'Currently-Playing on Spotify' project integrates the Spotify API to display the currently playing track in real-time without page reloads. This showcases my ability to blend APIs with Ajax to create seamless and dynamic user experiences."
+        ]
+      },
+      {
+        "title": "Build Interactive Web Interfaces and Automate Processes",
+        "content": [
+          "I designed and developed a personalized web terminal using Vanilla JavaScript, which offers a range of commands for information and interaction. This project demonstrates my proficiency in JavaScript and my ability to create engaging and interactive web experiences.",
+          "My project 'Covisurance' exemplifies my capability to automate health insurance processes, providing seamless online applications, payments, and claims. This project also includes admin controls, hidden features, and real-time notifications, ensuring enhanced security and user-friendly management."
+        ]
+      },
+      {
+        "title": "Participate in Coding Bootcamps and Workshops",
+        "content": [
+          "I have participated in various coding bootcamps and workshops, including the Complete JavaScript Course and Google Cloud Study Jams. These experiences have honed my skills in JavaScript, Python, web development, and cloud computing, enabling me to stay updated with the latest technologies and best practices."
+        ]
+      },
+      {
+        "title": "Contribute to Open Source and Collaborate",
+        "content": [
+          "I am an active contributor to the open-source community and have collaborated on several projects. I enjoy sharing knowledge and learning from others, which helps me grow both personally and professionally."
+        ]
+      },
+      {
+        "title": "Explore Music and Fitness",
+        "content": [
+          "Outside of coding, I immerse myself in music and fitness. My music taste spans Dream Pop, Shoegaze, Ambient Pop, Slowcore, and Indie Rock. I'm particularly fond of albums like 'Donte Estas,' 2000s Bollywood, and Gazal. I also enjoy the works of Eminem, 2Pac, and Biggie, as well as indie artists like Yawar, Abdal, and Alisethi. Fitness keeps me motivated and energized, whether it's through gym workouts or exploring new music genres."
+        ]
+      },
+      {
+        "title": "Read Fiction, Non-Fiction, and Philosophy",
+        "content": [
+          "My passion for reading spans across fiction, non-fiction, and philosophy. Some of my favorite authors include Fyodor Dostoevsky, whose profound narratives challenge the human psyche, and Haruki Murakami, known for his imaginative and thought-provoking stories. Books like 'Sophie's World' also inspire my philosophical inquiries and reflections."
+        ]
+      }
+    ],
+    "contact": {
+      "email": "discuss@shujaurrahman.me",
+      "github": "https://github.com/shujaurrahman?tab=repositories"
+    }
+  }
+  

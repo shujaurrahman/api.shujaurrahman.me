@@ -1,0 +1,40 @@
+{
+  "site": {
+    "description": "Designed in Figma, built with PHP, JSON, JS, and Tailwind, and hosted on InfinityFree. Only 0.46 g of CO² is produced every time someone visits this web page. This site was last updated on 09-09-2024."
+  },
+  "design": {
+    "description": "The design of the site was inspired by John Maeda's <a href='http://lawsofsimplicity.com/#'>Laws of Simplicity</a>.",
+    "principles": [
+      "• Reduce- The simplest way to achieve simplicity is through thoughtful reduction.",
+      "• Trust- In simplicity we trust.",
+      "• The One- Simplicity is about subtracting the obvious, and adding the meaningful."
+    ]
+  },
+  "type": {
+    "primaryFont": "•Poppins, sans-serif"
+  },
+  "stack": {
+    "tools": [
+      { "name": "Raycast", "description": "like Mac Spotlight, but so much better", "url": "https://www.raycast.com/" },
+      { "name": "Hyper", "description": "a friendlier looking terminal", "url": "https://hyper.is/" },
+      { "name": "Stack", "description": "a mindful browser to declutter the dock", "url": "https://stackbrowser.com/" },
+      { "name": "VSCode", "description": "a source-code editor developed by Microsoft", "url": "https://code.visualstudio.com/" },
+      { "name": "CheatSheet", "description": "view all the keyboard shortcuts of the active application", "url": "https://www.mediaatelier.com/CheatSheet/" }
+    ]
+  },
+  "bag": {
+    "items": [
+      { "name": "MacBook Air M1", "url": "https://www.apple.com/in/shop/buy-mac/macbook-air", "description": "Powerful laptop for development and design." },
+      { "name": "Iphone 12", "url": "https://www.flipkart.com/apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79", "description": "Phone for distracting me from work." },
+      { "name": "Acer Monitor", "url": "https://www.amazon.in/gp/product/B0CLY9HWHN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1", "description": "Second screen for multitasking." },
+      { "name": "Amazon kindle Fire 7", "url": "https://www.amazon.com/Fire-7-Tablet/dp/B096WKKK2K", "description": "I like to read." },
+    { "name": "Samsung T7 1TB", "url": "https://www.amazon.in/Samsung-10Gbps-External-Portable-MU-PC1T0T/dp/B087DFLF9S/ref=asc_df_B087DFLF9S/?tag=googleshopdes-21&linkCode=df0&hvadid=709962585029&hvpos=&hvnetw=g&hvrand=4925962224186465335&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301805&hvtargid=pla-908161754587&psc=1&mcid=253324ccc3323480b0a629c9808e33eb&gad_source=1", "description": "External SSD Drive 1TB." },
+      { "name": "USB hub", "url": "https://www.amazon.in/dp/B0CFLP2DQS?psc=1&ref=ppx_yo2ov_dt_b_product_details", "description": "Amazon Basics 5-in-1 Hub Multiport Adapter." },
+
+      { "name": "Realme Buds Air 3", "url": "https://www.realme.com/in/realme-buds-air-3", "description": "Block out the noise of the world." },
+      { "name": "Samsung AKG-Tuned IC100 ", "url": "https://www.samsung.com/in/mobile-accessories/samsung-type-c-earphones-black-eo-ic100bbegin/?cid=in_pd_ppc_google_im-all-all-all-dtc_sales_samsung-accessories(Feed)-all-2023_eshop-pmax-pla_01jan2023-na_1ur-501359l-2024-eshop-bau-performancemax-cpc_pfm--20843245144------x--EO-IC100BBEG&gad_source=1&gclid=Cj0KCQjw-5y1BhC-ARIsAAM_oKmjxH9-96vVhQiqChGf8MPhn0Rk6ZjwhRoVMTm2c5waoGLL4HsDoaoaAoTBEALw_wcB", "description": "Wired, music should never stop." },
+      { "name": "Mi Power Bank", "url": "https://www.amazon.in/gp/product/B08HV83HL3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1", "description": "Battery backup is important" }
+    ]
+  }
+}
+

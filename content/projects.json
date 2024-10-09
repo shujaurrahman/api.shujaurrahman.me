@@ -1,0 +1,27 @@
+[
+    {
+        "technology": "PHP JavaScript API MVA",
+        "title": "AMU PYQ Papers: A Comprehensive Archive",
+        "summary": "Dive into the AMU PYQ Papers project, a meticulously crafted web application designed to empower students by providing seamless access to an extensive archive of past exam papers. This dynamic platform leverages the power of Ajax for smooth and responsive user experiences, ensuring that students can efficiently retrieve the documents they need. With robust admin review features, content quality and management are top priorities, making this archive an indispensable tool for academic preparation."
+    },
+    {
+        "technology": "PHP JavaScript ",
+        "title": "Currently Playing on Spotify: Real-Time Music Updates",
+        "summary": "Experience the magic of real-time music updates with the Currently Playing on Spotify project. This interactive script harnesses the power of Ajax to display the currently playing Spotify track without requiring a full page reload. Seamlessly integrated into web pages, this project provides live music updates, enhancing the user's auditory journey with up-to-the-minute information."
+    },
+    {
+        "technology": "Vanilla JavaScript",
+        "title": "Personal Web Terminal: Command-Driven Interaction",
+        "summary": "Enter the world of command-driven interaction with the Personal Web Terminal project. This innovative web application provides a personalized terminal interface, allowing users to execute a variety of commands for information and interaction. Utilizing robust JavaScript technology, the terminal interacts with APIs to fetch data, offering a seamless and interactive user experience."
+    },
+    {
+        "technology": "PHP JavaScript Razopay Auth PHPMailer ",
+        "title": "Covisurance: Streamlined Health Process Automation",
+        "summary": "Step into the future of health process automation with Covisurance. This comprehensive project automates health-related procedures, offering seamless online applications, payments, and claims. Featuring exclusive admin controls, hidden features, and real-time notifications, Covisurance ensures enhanced security and user-friendly experiences. The intuitive design supports easy registration, policy management, and EMI payments, making health insurance processes more accessible and efficient."
+    },
+    {
+        "technology": "HTML CSS JS PHP ",
+        "title": "Blog Web App: Dynamic Content Management",
+        "summary": "Discover the ease of dynamic content management with the Blog Web App project. Designed to streamline blog operations, this application enables effortless CRUD operations and editing capabilities. With a comprehensive login/signup system and a dedicated contact section, user interaction is at the forefront. An exclusive admin panel ensures effective management of queries and feedback, making this app a powerful tool for bloggers."
+    }
+]

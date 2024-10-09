@@ -1,0 +1,26 @@
+[
+    {
+      "thumbUrl": "https://shujaurrahman.me/content/profile/shujaR.jpg",
+
+      "imageUrl": "https://shujaurrahman.me/content/stories/blog.png",
+      "title": "Blog live now : <br><a href=\"https://blog-shujaurrahman.vercel.app/\" class=\"transparent-button\" style=\"margin-left: 0;\">Click here<span class=\"arrow\">→</span></a>"
+    },
+    {
+    //   "imageUrl": "https://shujaurrahman.me/content/stories/2.png",
+    //   "title": "Portfolio website live now."
+    },
+    {
+    //   "imageUrl": "https://shujaurrahman.me/content/stories/3.png",
+    //   "title": ""
+    },
+    {
+     
+    //   "imageUrl": "https://shujaurrahman.me/content/support/bmc.png",
+    //   "title": "Buy me a coffie "
+    },
+    {
+     
+    //   "imageUrl": "https://shujaurrahman.me/content/support/UPI.jpeg",
+    //   "title": "Discuss <br><a href=\"mailto:shujaurrehman210@gmail.com\" class=\"transparent-button\" style=\"margin-left: 0;\">Email!<span class=\"arrow\">→</span></a>"
+    }
+  ]

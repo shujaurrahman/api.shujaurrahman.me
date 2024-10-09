@@ -1,0 +1,44 @@
+{
+    "gallery": [
+        {
+            "type": "text",
+            "content": "Last week, I visited Delhi and spent quality time with my loved ones. We indulged in delicious food at a cozy restaurant that had a beautiful ambiance. The moments spent with family were filled with love and laughter. I also took some solo photos to capture the essence of joy in those moments, creating memories that I will cherish forever. The warm atmosphere and delightful conversations made it a truly special experience.",
+            "location": "Delhi, India",
+            "date": "2024-09-15",
+            "photographer": "Aqsa Rahman",
+            "event": "Family Reunion"
+        },
+        {
+            "type": "images",
+            "post": "post1",
+            "alt_texts": [
+                "Cozy restaurant ambiance with family",
+                "Family sharing joyful moments over dinner",
+                "Solo photo capturing the essence of happiness"
+            ],
+            "location": "Delhi, India",
+            "date": "2024-09-15",
+            "photographer": "Aqsa Rahman"
+        },
+        {
+            "type": "text",
+            "content": "In pursuit of a healthier lifestyle, I’ve been grinding hard at the gym. It's not just about lifting weights; it's a journey towards strength, discipline, and self-love. I love the hustle of pushing my limits and the satisfaction that follows. The process is as rewarding as the results, and I’m proud of the progress I’m making. Captured moments from the gym reflect the hard work and dedication that goes into this lifestyle.",
+            "location": "Local Gym",
+            "date": "2024-09-20",
+            "photographer": "Shuja",
+            "event": "Fitness Journey"
+        },
+        {
+            "type": "images",
+            "post": "post2",
+            "alt_texts": [
+                "Focused workout session at the gym",
+                "Showcasing progress with body transformation",
+                "Strength training with determination"
+            ],
+            "location": "Local Gym",
+            "date": "2024-09-20",
+            "photographer": "Shuja Ur Rahman"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "socials": [
+        {
+            "url": "https://www.linkedin.com/in/shuja-u-934230110/",
+            "icon": "ri-linkedin-line"
+        },
+        {
+            "url": "mailto:discuss@shujaurrahman.me",
+            "icon": "ri-mail-line"
+        },
+                {
+            "url": "https://github.com/shujaurrahman",
+            "icon": "ri-github-line"
+        },
+        {
+            "url": "https://twitter.com/s_rhmaan",
+            "icon": "ri-twitter-line"
+        }
+
+    ]
+}
+
