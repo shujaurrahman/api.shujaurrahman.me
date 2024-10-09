@@ -1,16 +1,14 @@
 {
-  "name": "api-shujaurrahman",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "API project",
-  "main": "server.js",
+  "main": "index.js",
+  "type": "module", 
   "scripts": {
-    "start": "node server.js"
+    "dev": "vercel dev",
+    "build": "echo 'Nothing to build'"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "fs": "0.0.1-security",  
+    "path": "^0.12.7"
+  }
 }

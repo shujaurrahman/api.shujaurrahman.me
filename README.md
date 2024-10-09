@@ -15,7 +15,7 @@ The Shujaurrahman API serves as the backend data source for the portfolio websit
 
 The following endpoints are available in the API:
 
-### 1. `/api/content/about`
+### 1. `/api/public/about`
 
 **Method:** GET
 
@@ -37,34 +37,34 @@ The following endpoints are available in the API:
 }
 ```
 
-### 2. `/api/content/bookmarks`
+### 2. `/api/public/bookmarks`
 
 **Method:** GET
 
 **Description:** Fetches bookmarks data for the user.
 
-### 3. `/api/content/colophon`
+### 3. `/api/public/colophon`
 
 **Method:** GET
 
 **Description:** Provides information about the website's design and development credits.
 
 
-### 4. `/api/content/gallery`
+### 4. `/api/public/gallery`
 
 **Method:** GET
 
 **Description:** Fetches image links for the gallery section.
 
 
-### 5. `/api/content/hireme`
+### 5. `/api/public/hireme`
 
 **Method:** GET
 
 **Description:** Provides hiring information for the user.
 
 
-### 6. `/api/content/notes`
+### 6. `/api/public/notes`
 
 **Method:** GET
 
@@ -72,7 +72,7 @@ The following endpoints are available in the API:
 
 
 
-### 7. `/api/content/now`
+### 7. `/api/public/now`
 
 **Method:** GET
 
@@ -80,7 +80,7 @@ The following endpoints are available in the API:
 
 
 
-### 8. `/api/content/projects`
+### 8. `/api/public/projects`
 
 **Method:** GET
 
@@ -88,14 +88,14 @@ The following endpoints are available in the API:
 
 
 
-### 9. `/api/content/social-media`
+### 9. `/api/public/social-media`
 
 **Method:** GET
 
 **Description:** Provides links to the user's social media profiles.
 
 
-### 10. `/api/content/status`
+### 10. `/api/public/status`
 
 **Method:** GET
 
@@ -103,14 +103,14 @@ The following endpoints are available in the API:
 
 
 
-### 11. `/api/content/story`
+### 11. `/api/public/story`
 
 **Method:** GET
 
 **Description:** Fetches stories with thumbnails and images.
 
 
-### 12. `/api/content/support`
+### 12. `/api/public/support`
 
 **Method:** GET
 
@@ -118,7 +118,7 @@ The following endpoints are available in the API:
 
 
 
-### 13. `/api/content/timeline`
+### 13. `/api/public/timeline`
 
 **Method:** GET
 
@@ -173,5 +173,4 @@ To run the API locally:
     ```bash
     node server.js
     ```
-4. Access the API at `http://localhost:3000/api/content/<endpoint>`
-git
+4. Access the API at `http://localhost:3000/api/public/<endpoint>`
