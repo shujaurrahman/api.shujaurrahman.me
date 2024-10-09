@@ -174,7 +174,4 @@ To run the API locally:
     node server.js
     ```
 4. Access the API at `http://localhost:3000/api/content/<endpoint>`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+git
